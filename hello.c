@@ -5,6 +5,8 @@ Date: 2020/1/4
 #include <stdio.h>
 
 int main(void) {
-printf("Hello World!\n");
+printf("Mark Forget!\n");
+printf("Mathematics\n");
 return 0;
 }
+
