@@ -7,6 +7,7 @@ Date: 2020/1/4
 int main(void) {
 printf("Mark Forget!\n");
 printf("Mathematics\n");
+printf("Luke Burwell\n");
+printf("Construction Engineering\n");
 return 0;
 }
-
